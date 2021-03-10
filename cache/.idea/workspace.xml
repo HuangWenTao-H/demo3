@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93841773-0207-4f70-b47b-533a631892f3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boot_cache/boot_cache.iml" beforeDir="false" afterPath="$PROJECT_DIR$/boot_cache/boot_cache.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc_cache/mvc_cache.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mvc_cache/mvc_cache.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/redis-lock/redis-lock.iml" beforeDir="false" afterPath="$PROJECT_DIR$/redis-lock/redis-lock.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tcc_one/tcc_one.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tcc_one/tcc_one.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tcc_two/tcc_two.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tcc_two/tcc_two.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trans-2pc/trans-2pc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/trans-2pc/trans-2pc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvc_cache/src/main/java/com/enjoy/controller/ProvincesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc_cache/src/main/java/com/enjoy/controller/ProvincesController.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
