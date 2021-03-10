@@ -15,13 +15,13 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="boot_cache" target="1.8" />
+      <module name="boot_cache" target="1.5" />
       <module name="cache" target="1.8" />
-      <module name="mvc_cache" target="1.8" />
-      <module name="redis-lock" target="1.8" />
-      <module name="tcc_one" target="1.8" />
-      <module name="tcc_two" target="1.8" />
-      <module name="trans-2pc" target="1.8" />
+      <module name="mvc_cache" target="1.5" />
+      <module name="redis-lock" target="1.5" />
+      <module name="tcc_one" target="1.5" />
+      <module name="tcc_two" target="1.5" />
+      <module name="trans-2pc" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
