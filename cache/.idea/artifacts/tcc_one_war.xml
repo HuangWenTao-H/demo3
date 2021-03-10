@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tcc_one:war">
+    <output-path>$PROJECT_DIR$/tcc_one/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>tcc_one</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="tccone.war">
+      <element id="artifact" artifact-name="tcc_one:war exploded" />
+    </root>
+  </artifact>
+</component>

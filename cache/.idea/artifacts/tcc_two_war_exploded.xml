@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="tcc_two:war exploded">
+    <output-path>$PROJECT_DIR$/tcc_two/target/tcctwo</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>tcc_two</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="tcc_two" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/tcc_two/target/tcctwo/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="tcc_two/web/Web" />
+    </root>
+  </artifact>
+</component>
