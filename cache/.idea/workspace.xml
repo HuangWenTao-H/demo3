@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93841773-0207-4f70-b47b-533a631892f3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvc_cache/src/main/java/com/enjoy/controller/ProvincesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/mvc_cache/src/main/java/com/enjoy/controller/ProvincesController.java" afterDir="false" />
-    </list>
+    <list default="true" id="93841773-0207-4f70-b47b-533a631892f3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,9 +14,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="E:\IDEA\apache-maven-3.6.3-bin\apache-maven-3.6.3\repository" />
-        <option name="mavenHome" value="E:/IDEA/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
-        <option name="userSettingsFile" value="E:\IDEA\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+        <option name="localRepository" value="D:\tools\apache-maven-3.6.3-bin\lib" />
+        <option name="mavenHome" value="D:/tools/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\tools\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -66,7 +63,7 @@
       <workItem from="1605506523933" duration="18000" />
       <workItem from="1605858322304" duration="713000" />
       <workItem from="1610939469432" duration="3899000" />
-      <workItem from="1615355716709" duration="1195000" />
+      <workItem from="1615355716709" duration="1404000" />
     </task>
     <servers />
   </component>
